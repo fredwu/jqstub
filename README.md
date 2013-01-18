@@ -2,6 +2,14 @@
 
 ### A simple stub library for jQuery / Zepto objects.
 
+## NPM
+
+If you use [npm](https://npmjs.org/), you can grab the source code by:
+
+```
+npm install jqstub
+```
+
 ## Usage
 
 ```javascript
