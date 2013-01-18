@@ -1,6 +1,6 @@
 {
   "name": "jqstub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "JQStub",
   "author": {
     "name": "Fred Wu",
@@ -22,6 +22,7 @@
     "stub",
     "mock",
     "test",
+    "spec",
     "jquery",
     "zepto"
   ],
